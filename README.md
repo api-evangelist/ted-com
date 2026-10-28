@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TED is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://ted.com/
+TED is a global nonprofit devoted to ideas worth spreading, offering a platform for talks, performances, and educational content across a wide range of topics including science, technology, design, and global issues. Its mission is to spark curiosity and inspire change through powerful storytelling and accessible media, reaching millions worldwide via its website, mobile apps, and partner initiatives.
+
+**Areas:** Company · Media · Nonprofit · Education · Technology · Entertainment
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ted.com/)
+- [Documentation](https://help.ted.com/)
+- [Getting started](https://www.ted.com/participate/get-started)
+- [Support](https://support.ted.com)
+- [Blog](https://blog.ted.com/)
+- [Privacy policy](https://www.ted.com/about/our-organization/our-policies-terms/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/ted-com/](https://apis.io/providers/ted-com/).
